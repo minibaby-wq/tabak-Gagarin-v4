@@ -1,0 +1,19 @@
+{
+  "name": "tabak-gagarin-v4",
+  "version": "4.0.0",
+  "description": "Telegram bot for tobacco shops with games and economy",
+  "main": "tabak.js",
+  "scripts": {
+    "start": "node tabak.js",
+    "dev": "nodemon tabak.js"
+  },
+  "keywords": ["telegram", "bot", "telegraf", "games"],
+  "author": "minibaby-wq",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.15.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
